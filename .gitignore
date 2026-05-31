@@ -1,0 +1,7 @@
+.env
+venv/
+__pycache__/
+*.pyc
+securegraph.egg-info/
+reports/report.json
+reports/report.md
